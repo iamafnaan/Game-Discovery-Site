@@ -42,3 +42,8 @@ Ensure you have Node.js installed on your machine.
 ## Feedback and Contributions
 
 Contributions to the Game Discovery Hub project are highly appreciated! Whether it's bug fixes, feature enhancements, or new ideas, feel free to contribute by opening issues or submitting pull requests on the project repository. Let's build the ultimate game discovery platform together!
+
+## Contact Information
+For any queries or assistance during the evaluation, you can contact me at afnaanahmed33@gmail.com
+
+<img width="1434" alt="Screenshot 2024-03-12 at 11 39 49 PM" src="https://github.com/iamafnaan/E-Commerce-Flipkart/assets/86117671/df120eb6-1365-4256-b56d-52e194fc03e6">
