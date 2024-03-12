@@ -12,8 +12,8 @@ The Game Discovery Hub is your ultimate destination for exploring and finding yo
 - **Search and Filter**: Easily find games by searching with keywords or applying filters based on genres, platforms, release dates, and more.
 - **Responsive Design**: Enjoy a seamless browsing experience across various devices, ensuring accessibility and usability for all users.
 
-##Live Demo
-http://game-discovery-site.vercel.app
+## Live Demo
+[Game Hub](http://game-discovery-site.vercel.app)
 
 ## How to Run the Application Locally
 
