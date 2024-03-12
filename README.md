@@ -6,7 +6,6 @@ The Game Discovery Hub is your ultimate destination for exploring and finding yo
 
 ## Features
 
-- **User Authentication**: Sign up or log in to unlock personalized features and preferences tailored to your gaming interests.
 - **Detailed Game Information**: Each game listing comes with a wealth of information, including descriptions, ratings, reviews, trailers, and screenshots, allowing users to make informed decisions.
 - **Favorite Games**: Keep track of your favorite games by adding them to your list for quick access and updates.
 - **Search and Filter**: Easily find games by searching with keywords or applying filters based on genres, platforms, release dates, and more.
